@@ -1,5 +1,6 @@
 title: Kyle Markwardt
-logo: /assets/img/Headshot2.jpg
+logo: ![Profile Picture](/assets/img/Headshot2.jpg){: #profile-picture }
+
 description: ✧ Machine Learning ✧ Engineering ✧
 #show_downloads: true
 theme: jekyll-theme-minimal
