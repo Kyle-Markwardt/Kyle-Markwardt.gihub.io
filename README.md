@@ -2,12 +2,7 @@
 
 | **Technical Skills** | **Tool Competency** | **Languages and Libraries** |
 |:---------------------|:---------------------|:----------------------------|
-| ML models, neural nets, classification, data narratives and visualization | AWS Sagemaker, AWS Quicksight, AWS Glue, GitHub, Google Colab, Jupyter, VSCode | Python, Spark, Scikit-learn (sklearn), TensorFlow |
-
-
-#### Technical Skills: ML models, Neural nets, Classification, Data narratives and visualization
-#### Tool Competency: AWS Sagemaker, AWS Quicksight, AWS Glue, GitHub, Google Colab, Jupyter, VSCode
-#### Languages and Libraries: Python, Spark, Scikt-learn (sklearn), tensorflow
+| - ML models <br> - Neural nets <br> - Classification <br> - Data narratives and visualization | - AWS Sagemaker <br> - AWS Quicksight <br> - AWS Glue <br> - GitHub <br> - Google Colab <br> - Jupyter <br> - VSCode | - Python <br> - Spark <br> - Scikit-learn (sklearn) <br> - TensorFlow |
 
 
 ## Education
