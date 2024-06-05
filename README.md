@@ -12,7 +12,7 @@
 
 ## Projects
 - 
-- ![State of California Self Driving Car Records Visualization](https://github.com/Kyle-Markwardt/self-driving-vehicles)
+- [State of California Self Driving Car Records Visualization](https://github.com/Kyle-Markwardt/self-driving-vehicles)
 
 
 ## Work Experience 
