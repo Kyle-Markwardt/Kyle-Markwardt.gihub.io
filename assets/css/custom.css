@@ -1,5 +1,5 @@
 .page-content {
-    max-width: 1200px; /* Adjust the maximum width as needed */
+    max-width: 1500px; /* Adjust the maximum width as needed */
     margin: 0 auto;
 }
 
@@ -8,3 +8,9 @@
     overflow-wrap: break-word; /* For modern browsers */
 }
   
+#profile-picture {
+  border-radius: 50%;
+  width: 150px; /* Adjust the size as needed */
+  height: 150px; /* Ensure it's a square to make a perfect circle */
+  object-fit: cover; /* Ensures the image covers the container */
+}
