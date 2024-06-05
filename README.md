@@ -6,8 +6,9 @@
 
 
 ## Education
-- Shaolin AI Bootcamp (_January - July 2024_)
-- B.S., Mechanical Engineering | Penn State Erie, The Behrend College (_May 2010_)
+- Alumnus <span style="float: right;"> Shaolin AI Bootcamp (_January - July 2024_)</span>
+- B.S., Mechanical Engineering <span style="float: right;">Penn State Erie, The Behrend College (_May 2010_)</span>
+
 
 
 ## Projects
