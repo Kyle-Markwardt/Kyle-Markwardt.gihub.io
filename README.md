@@ -1,6 +1,6 @@
 # AI Systems Engineer
 
-#### Technical Skills: ML models, Neural nets, Classification, Data nrratives and visualization
+#### Technical Skills: ML models, Neural nets, Classification, Data narratives and visualization
 #### Tool Competency: AWS Sagemaker, AWS Quicksight, AWS Glue, GitHub, Google Colab, Jupyter, VSCode
 #### Languages and Libraries: Python, Spark, Scikt-learn (sklearn), tensorflow
 
@@ -12,7 +12,7 @@
 
 ## Projects
 - 
-- [State of California Self Driving Car Records Visualization](https://github.com/Kyle-Markwardt/self-driving-vehicles)
+- [State of California Self Driving Car Records Investigation](https://github.com/Kyle-Markwardt/self-driving-vehicles)
 
 
 ## Work Experience 
