@@ -2,7 +2,7 @@
 
 | **Technical Skills** | **Tool Competency** | **Languages and Libraries** |
 |:---------------------|:---------------------|:----------------------------|
-| - ML models <br> - Neural nets <br> - Classification <br> - Data narratives and visualization | - AWS <br> - GitHub <br> - Google Colab <br> - VSCode <br> - Jupyter | - Python <br> - Spark <br> - Scikit-learn (sklearn) <br> - TensorFlow <br> - Japanese |
+| - Neural network construction <br> - Model training & evaluation <br> - Classification <br> - Time Series <br> - Data narratives and visualization | - AWS <br> - GitHub <br> - Google Colab <br> - VSCode <br> - Jupyter | - Python <br> - Spark <br> - Scikit-learn (sklearn) <br> - TensorFlow <br> - Japanese |
 
 
 ## Education
