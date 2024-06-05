@@ -1,0 +1,10 @@
+.page-content {
+    max-width: 1000px; /* Adjust the maximum width as needed */
+    margin: 0 auto;
+}
+
+.markdown-body {
+    word-wrap: break-word; /* For older browsers */
+    overflow-wrap: break-word; /* For modern browsers */
+}
+  
