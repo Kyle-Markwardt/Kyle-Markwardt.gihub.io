@@ -18,7 +18,7 @@
 ## Work Experience 
 **Flight Data Analyst, Aviation Week (_May 2023 - Present_)**
 - Spearheaded business intelligence effort by creating Quicksight data visualization dashboards for:
-  - Showcasing specific data stories for customers
+  - Showcasing custom data stories for clients
   - Rendering AW data lake quickly searchable by internal SMEs
 - Updated and automated flight data ETL pipelines and deployed in AWS Glue, created Quiskight dashboards to monitor automation
 
