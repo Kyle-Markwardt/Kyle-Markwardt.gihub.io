@@ -1,42 +1,54 @@
 # AI Systems Engineer
 
-#### Technical Skills: Python, Spark, Scikt-learn (sklearn), tensorflow
-
+#### Technical Skills: ML models, Neural nets, Classification, Data nrratives and visualization
 #### Tool Competency: AWS Sagemaker, AWS Quicksight, AWS Glue, GitHub, Google Colab, Jupyter, VSCode
+#### Languages and Libraries: Python, Spark, Scikt-learn (sklearn), tensorflow
 
 
 ## Education
-- Shaolin AI Bootcamp (_July 2022_)
+- Shaolin AI Bootcamp (_January - July 2024_)
 - B.S., Mechanical Engineering | Penn State Erie, The Behrend College (_May 2010_)
 
 
+## Projects
+- 
+- ![State of California Self Driving Car Records Visualization](https://github.com/Kyle-Markwardt/self-driving-vehicles)
+
+
 ## Work Experience 
-**Data Analyst, Aviation Week (_May 2023 - Present_)**
+**Flight Data Analyst, Aviation Week (_May 2023 - Present_)**
 - Spearheaded business intelligence effort by creating Quicksight data visualization dashboards for:
   - showcasing specific data stories for customers
   - making AW data lake quickly searchable by internal SMEs
-- Improved flight data ETL pipelines in Sagemaker, pushed to GitHub and deployed in AWS Glue, Created Quiskight dashboards to monitor and report on automated data pipelines
+- Updated and automated flight data ETL pipelines and deployed in AWS Glue, created Quiskight dashboards to monitor automation
 
-**Systems Engineer, Aurora Innovation (_May 2022 - May 2023_)**
-- big impact project 1!
-- big impact project 2!
+**Driverless Vehicle Systems Engineer, Aurora Innovation (_May 2022 - May 2023_)**
+- Created Aurora Driver Tier 3 (subsystem level) Functional Architecture
+- Authored system integration and behavioral requirements in support of Aurora’s industry-leading Safety Case 
+- Led the creation and maintenance of the Aurora Driver full onboard software architecture
+- Collaboarted with SWEs to author the Interface Control Documents for Mapping, Perception, Controls, Sensors and Remote Assist subsystems
 
-**Subsystem Test Engineer, Aurora Innovation (_January 2021 - May 2022_)**
-- big impact project 1!
-- big impact project 2!
+**Driverless Vehicle Subsystem Test Engineer, Aurora Innovation (_January 2021 - May 2022_)**
+- Generated test standards and procedures for evaluating quality and safety of motion planner outputs in preparation for driverless semi operation
+- Advised on creation of subsystem requirements for Motion Planning subsystem of Auora Driver
 
-**Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)**
-- big impact project 1!
-- big impact project 2!
+**Driverless Vehicle Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)**
+- Devised, conducted and reported Motion Planning subsystem testing for autonomous passenger vehicles
 
-**Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)**
-- big impact project 1!
-- big impact project 2!
+**Transmission Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)**
+- Conducted developmental testing to ensure quality and performance of new automatic and hybrid transmissions
+- Implemented faster parts measurement process to improve measurement turnover rate 300%
 
-**Test Officer, US Army Aberdeen Test Center (_September 2010 - May 2014_)**
-- big impact project 1!
-- big impact project 2!
+**Protective Equipment Test Officer, US Army Aberdeen Test Center (_September 2010 - May 2014_)**
+- Safely oversaw the ballistic testing testing of protective equipment (zero incident record)
+- Performed rigorous statisitical analysis against pass/fail criteria
+- Wrote and published the Internal Operationg Procedure for the ballistic testing of helmets (IOP PED-003)
 
+## Honors
+- Eagle Scout, BSA 2006
+- First-Year Writing Award, PSU Behrend 2006
 
-## Projects
-
+## Other interests
+ - Reef aquaria
+ - Ecological Conservation: American Chestnut Cooperators Foundation member (_2019 - Present_)
+ - Horticulture, pomology
