@@ -6,14 +6,14 @@
 
 
 ### Education
-Mechanical Engineering, Bachelor of Science
-Shaolin AI Bootcamp
+Shaolin AI Bootcamp (_July 2022_)
+B.S., Mechanical Engineering | Penn State Erie, The Behrend College (_May 2010_)
 
 
 ### Work Experience 
 **Data Analyst, Aviation Week (_May 2023 - Present_)**
-- big impact project 1!
-- big impact project 2!
+- Spearheaded business intelligence vitalization effort by creating Quicksight data visualization dashboards for: showcasing specific data stories for customers; making AW data lake quickly searchable by internal SMEs.
+- Improved flight data ETL pipelines in Sagemaker, pushed to GitHub and deployed in AWS Glue, Created Quiskight dashboards to monitor and report on automated data pipelines.
 
 **Systems Engineer, Aurora Innovation (_May 2022 - May 2023_)**
 - big impact project 1!
