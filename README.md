@@ -1,11 +1,14 @@
 # AI Systems Engineer
 
 #### Technical Skills: Python, Spark, Scikt-learn (sklearn), tensorflow
+
 #### Tool Competency: AWS Sagemaker, AWS Quicksight, AWS Glue, GitHub, Google Colab, Jupyter, VSCode
+
 
 ### Education
 Mechanical Engineering, Bachelor of Science
 Shaolin AI Bootcamp
+
 
 ### Work Experience 
 **Data Analyst, Aviation Week (_May 2023 - Present_)**
@@ -31,6 +34,7 @@ Shaolin AI Bootcamp
 **Test Officer, US Army Aberdeen Test Center (_September 2010 - May 2014_)**
 - big impact project 1!
 - big impact project 2!
+
 
 ### Projects
 
