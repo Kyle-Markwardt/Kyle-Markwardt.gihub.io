@@ -5,12 +5,12 @@
 #### Tool Competency: AWS Sagemaker, AWS Quicksight, AWS Glue, GitHub, Google Colab, Jupyter, VSCode
 
 
-### Education
+## Education
 Shaolin AI Bootcamp (_July 2022_)
 B.S., Mechanical Engineering | Penn State Erie, The Behrend College (_May 2010_)
 
 
-### Work Experience 
+## Work Experience 
 **Data Analyst, Aviation Week (_May 2023 - Present_)**
 - Spearheaded business intelligence effort by creating Quicksight data visualization dashboards for:
   - showcasing specific data stories for customers
@@ -38,5 +38,5 @@ B.S., Mechanical Engineering | Penn State Erie, The Behrend College (_May 2010_)
 - big impact project 2!
 
 
-### Projects
+## Projects
 
