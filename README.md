@@ -16,7 +16,10 @@
 
 
 ## Work Experience 
-**<img src="/assets/img/AWIN-logo.png" alt="Aviation Week Logo" height="40" style="vertical-align: middle;"> Flight Data Analyst, Aviation Week (_May 2023 - Present_)**
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <strong>Flight Data Analyst, Aviation Week (_May 2023 - Present_)</strong>
+  <img src="/assets/img/aviation-week-logo.png" alt="Aviation Week Logo" width="50" height="50" style="margin-left: 10px;">
+</div>
 - Spearheaded business intelligence effort by creating Quicksight data visualization dashboards for:
   - Showcasing custom data stories for clients
   - Rendering AW data lake quickly searchable by internal SMEs
