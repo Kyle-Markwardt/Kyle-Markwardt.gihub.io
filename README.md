@@ -16,26 +16,26 @@
 
 
 ## Work Experience 
-**<img src="path/to/aviation-week-logo.png" alt="Aviation Week Logo" height="40" style="vertical-align: middle;"> Flight Data Analyst, Aviation Week (_May 2023 - Present_)**
+**<img src="/assets/img/AWIN-logo.png" alt="Aviation Week Logo" height="40" style="vertical-align: middle;"> Flight Data Analyst, Aviation Week (_May 2023 - Present_)**
 - Spearheaded business intelligence effort by creating Quicksight data visualization dashboards for:
   - Showcasing custom data stories for clients
   - Rendering AW data lake quickly searchable by internal SMEs
 - Updated and automated flight data ETL pipelines and deployed in AWS Glue, created Quiskight dashboards to monitor automation
 
-**<img src="/assets/img/Aurora_logo.png" alt="Aurora Logo" height="40" style="vertical-align: middle;"> AV Systems Engineer II, Aurora Innovation (_May 2022 - May 2023_)**
+**<img src="/assets/img/Aurora-logo.png" alt="Aurora Logo" height="40" style="vertical-align: middle;"> AV Systems Engineer II, Aurora Innovation (_May 2022 - May 2023_)**
 - Created Aurora Driver Tier 3 (subsystem level) Functional Architecture
 - Authored system integration and behavioral requirements in support of Aurora’s industry-leading Safety Case
 - Led the creation and maintenance of the Aurora Driver full onboard software architecture
 - Collaboarted with SWEs to author the Interface Control Documents for Mapping, Perception, Controls, Sensors and Remote Assist subsystems
 
-**<img src="/assets/img/Aurora_logo.png" alt="Aurora Logo" height="40" style="vertical-align: middle;"> AV Subsystem Test Engineer, Aurora Innovation (_January 2021 - May 2022_)**
+**<img src="/assets/img/Aurora-logo.png" alt="Aurora Logo" height="40" style="vertical-align: middle;"> AV Subsystem Test Engineer, Aurora Innovation (_January 2021 - May 2022_)**
 - Generated test standards and procedures for evaluating quality and safety of motion planner outputs in preparation for driverless semi operation
 - Advised on creation of subsystem requirements for Motion Planning subsystem of Auora Driver
 
-**<img src="/assets/img/UBER_logo.png" alt="UBER Logo" height="40" style="vertical-align: middle;"> AV Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)**
+**<img src="/assets/img/Uber-logo.png" alt="UBER Logo" height="40" style="vertical-align: middle;"> AV Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)**
 - Devised, conducted and reported Motion Planning subsystem testing for autonomous passenger vehicles
 
-**<img src="/assets/img/TMNA_logo.png" alt="TMNA Logo" height="50" style="vertical-align: middle;"> Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)**
+**<img src="/assets/img/toyota-logo.png" alt="TMNA Logo" height="50" style="vertical-align: middle;"> Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)**
 - Conducted developmental testing to ensure quality and performance of new automatic and hybrid transmissions
 - Implemented faster parts measurement process to improve measurement turnover rate 300%
 
