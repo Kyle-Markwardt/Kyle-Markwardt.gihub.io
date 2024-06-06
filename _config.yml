@@ -7,4 +7,4 @@ theme: jekyll-theme-minimal
 
 # Custom CSS
 sass:
-  custom: 'assets/css/custom.scss'
+  custom: 'assets/css/style.scss'
