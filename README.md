@@ -32,7 +32,7 @@
 - Generated test standards and procedures for evaluating quality and safety of motion planner outputs in preparation for driverless semi operation
 - Advised on creation of subsystem requirements for Motion Planning subsystem of Auora Driver
 
-**<img src="/assets/img/Uber-logo.png" alt="UBER Logo" height="40" style="vertical-align: middle;"> AV Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)**
+**<img src="/assets/img/Uber-logo.jpg" alt="UBER Logo" height="40" style="vertical-align: middle;"> AV Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)**
 - Devised, conducted and reported Motion Planning subsystem testing for autonomous passenger vehicles
 
 **<img src="/assets/img/toyota-logo.png" alt="TMNA Logo" height="50" style="vertical-align: middle;"> Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)**
