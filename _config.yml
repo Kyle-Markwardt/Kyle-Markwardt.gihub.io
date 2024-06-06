@@ -4,6 +4,7 @@ description: ✧ Machine Learning ✧ Engineering ✧
 #show_downloads: true
 theme: jekyll-theme-minimal
 #themes list: [architecht, cayman, dinky, hacker, leap day, merlot, midnight, minima, minimal, modernist, slate, tactile, time machine]
+baseurl: "/Kyle-Markwardt.github.io" # if your site is served at https://username.github.io/repo-name, set baseurl: "/repo-name"
 
 # Custom CSS
 sass:
