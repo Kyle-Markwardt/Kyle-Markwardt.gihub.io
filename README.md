@@ -18,7 +18,7 @@
 ## Work Experience 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <strong>Flight Data Analyst, Aviation Week (_May 2023 - Present_)</strong>
-  <img src="/assets/img/aviation-week-logo.png" alt="Aviation Week Logo" width="50" height="50" style="margin-left: 10px;">
+  <img src="/assets/img/AWIN-logo.png" alt="Aviation Week Logo" height="40" style="margin-left: 10px;">
 </div>
 - Spearheaded business intelligence effort by creating Quicksight data visualization dashboards for:
   - Showcasing custom data stories for clients
@@ -38,11 +38,11 @@
 **<img src="/assets/img/Uber-logo.jpg" alt="UBER Logo" height="40" style="vertical-align: middle;"> AV Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)**
 - Devised, conducted and reported Motion Planning subsystem testing for autonomous passenger vehicles
 
-**<img src="/assets/img/toyota-logo.png" alt="TMNA Logo" height="50" style="vertical-align: middle;"> Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)**
+**<img src="/assets/img/toyota-logo.png" alt="TMNA Logo" height="40" style="vertical-align: middle;"> Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)**
 - Conducted developmental testing to ensure quality and performance of new automatic and hybrid transmissions
 - Implemented faster parts measurement process to improve measurement turnover rate 300%
 
-**<img src="/assets/img/Dept_Army_logo.png" alt="Dept of Army Logo" height="50" style="vertical-align: middle;"> Protective Equipment Test Officer, US Army Aberdeen Test Center (_September 2010 - May 2014_)**
+**<img src="/assets/img/Dept_Army_logo.png" alt="Dept of Army Logo" height="40" style="vertical-align: middle;"> Protective Equipment Test Officer, US Army Aberdeen Test Center (_September 2010 - May 2014_)**
 - Safely oversaw the ballistic testing testing of protective equipment (zero incident record)
 - Performed rigorous statisitical analysis against pass/fail criteria
 - Wrote and published the Internal Operationg Procedure for the ballistic testing of helmets (IOP PED-003)
