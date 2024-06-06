@@ -7,10 +7,3 @@
     word-wrap: break-word; /* For older browsers */
     overflow-wrap: break-word; /* For modern browsers */
 }
-  
-#profile-picture {
-  border-radius: 50%;
-  width: 150px; /* Adjust the size as needed */
-  height: 150px; /* Ensure it's a square to make a perfect circle */
-  object-fit: cover; /* Ensures the image covers the container */
-}
