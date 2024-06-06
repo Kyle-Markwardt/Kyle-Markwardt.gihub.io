@@ -16,33 +16,30 @@
 
 
 ## Work Experience 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <strong>Flight Data Analyst, Aviation Week (_May 2023 - Present_)</strong>
-  <img src="/assets/img/AWIN-logo.png" alt="Aviation Week Logo" height="40" style="margin-left: 10px;">
-</div>
+**Flight Data Analyst, Aviation Week (_May 2023 - Present_)** <img src="/assets/img/AWIN-logo.png" alt="Aviation Week Logo" height="40" style="vertical-align: bottom;">
 - Spearheaded business intelligence effort by creating Quicksight data visualization dashboards for:
   - Showcasing custom data stories for clients
   - Rendering AW data lake quickly searchable by internal SMEs
 - Updated and automated flight data ETL pipelines and deployed in AWS Glue, created Quiskight dashboards to monitor automation
 
-**<img src="/assets/img/Aurora-logo.png" alt="Aurora Logo" height="40" style="vertical-align: middle;"> AV Systems Engineer II, Aurora Innovation (_May 2022 - May 2023_)**
+**AV Systems Engineer II, Aurora Innovation (_May 2022 - May 2023_)** <img src="/assets/img/Aurora-logo.png" alt="Aurora Logo" height="40" style="vertical-align: bottom;">
 - Created Aurora Driver Tier 3 (subsystem level) Functional Architecture
 - Authored system integration and behavioral requirements in support of Aurora’s industry-leading Safety Case
 - Led the creation and maintenance of the Aurora Driver full onboard software architecture
 - Collaboarted with SWEs to author the Interface Control Documents for Mapping, Perception, Controls, Sensors and Remote Assist subsystems
 
-**<img src="/assets/img/Aurora-logo.png" alt="Aurora Logo" height="40" style="vertical-align: middle;"> AV Subsystem Test Engineer, Aurora Innovation (_January 2021 - May 2022_)**
+**AV Subsystem Test Engineer, Aurora Innovation (_January 2021 - May 2022_)** <img src="/assets/img/Aurora-logo.png" alt="Aurora Logo" height="40" style="vertical-align: bottom;">
 - Generated test standards and procedures for evaluating quality and safety of motion planner outputs in preparation for driverless semi operation
 - Advised on creation of subsystem requirements for Motion Planning subsystem of Auora Driver
 
-**<img src="/assets/img/Uber-logo.jpg" alt="UBER Logo" height="40" style="vertical-align: middle;"> AV Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)**
+**AV Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)** <img src="/assets/img/Uber-logo.jpg" alt="UBER Logo" height="40" style="vertical-align: bottom;">
 - Devised, conducted and reported Motion Planning subsystem testing for autonomous passenger vehicles
 
-**<img src="/assets/img/toyota-logo.png" alt="TMNA Logo" height="40" style="vertical-align: middle;"> Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)**
+**Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)** <img src="/assets/img/toyota-logo.png" alt="TMNA Logo" height="40" style="vertical-align: bottom;">
 - Conducted developmental testing to ensure quality and performance of new automatic and hybrid transmissions
 - Implemented faster parts measurement process to improve measurement turnover rate 300%
 
-**<img src="/assets/img/Dept_Army_logo.png" alt="Dept of Army Logo" height="40" style="vertical-align: middle;"> Protective Equipment Test Officer, US Army Aberdeen Test Center (_September 2010 - May 2014_)**
+**Protective Equipment Test Officer, US Army Aberdeen Test Center (_September 2010 - May 2014_)** <img src="/assets/img/Dept_Army_logo.png" alt="Dept of Army Logo" height="40" style="vertical-align: bottom;"> 
 - Safely oversaw the ballistic testing testing of protective equipment (zero incident record)
 - Performed rigorous statisitical analysis against pass/fail criteria
 - Wrote and published the Internal Operationg Procedure for the ballistic testing of helmets (IOP PED-003)
