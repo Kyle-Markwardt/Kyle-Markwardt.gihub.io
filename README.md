@@ -11,8 +11,8 @@
 
 
 ## Projects
-- Better Zestimator
 - [State of California Self Driving Car Records Investigation](https://github.com/Kyle-Markwardt/self-driving-vehicles)
+- Autonomous Vehicle Headline Sentiment Analysis and Impacts on Related Stocks
 
 
 ## Work Experience 
