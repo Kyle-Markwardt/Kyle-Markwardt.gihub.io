@@ -11,33 +11,32 @@
 
 ## Projects
 - [State of California Self Driving Car Records Investigation](https://github.com/Kyle-Markwardt/self-driving-vehicles)
-- Autonomous Vehicle Headline Sentiment Analysis and Impacts on Related Stocks
-
+- [Autonomous Vehicle Headline Sentiment Analysis and Impacts on Related Stocks](https://github.com/Kyle-Markwardt/robocar-sentiment)
+- [Self-Driving Car Reinforcement Learning](https://github.com/Kyle-Markwardt/gymnasium-car)
+- [Project Daedauls: Training AI to Play the Labyrinth Boardgame](https://github.com/Kyle-Markwardt/Daedalus)
 
 ## Work Experience 
-**Flight Data Analyst, Aviation Week (_May 2023 - Present_)**
-- Spearheaded business intelligence effort by creating Quicksight data visualization dashboards for:
-  - Showcasing custom data stories for clients
-  - Rendering AW data lake quickly searchable by internal SMEs
-- Updated and automated flight data ETL pipelines and deployed in AWS Glue, created Quiskight dashboards to monitor automation
+**Autonomous Vehicle Systems Engineer, Aurora Innovation (_January 2021 - Present_)**
+- Defined and documented system architecture and integration requirements for autonomous vehicle platforms.
+- Authored and reviewed vehicle behavior specifications and legal/regulatory requirements, ensuring compliance and robustness.
+- Spearheaded business intelligence effort by creating Quicksight data visualization dashboards for system metrics.
+- Led creation and upkeep of Interface Control Documents (ICDs) for inter-subsystem data flows and integrations.
+- Established automated processes for tracking architecture changes and system impact analysis.
+- Collaborated with cross-functional teams (software engineers) to ensure system alignment, leading to millions of accident-free autonomous miles.
 
-**AV Systems Engineer II, Aurora Innovation (_May 2022 - May 2023_)**
-- Created Aurora Driver Tier 3 (subsystem level) Functional Architecture
-- Authored system integration and behavioral requirements in support of Aurora’s industry-leading Safety Case
-- Led the creation and maintenance of the Aurora Driver full onboard software architecture
-- Collaboarted with SWEs to author the Interface Control Documents for Mapping, Perception, Controls, Sensors and Remote Assist subsystems
-
-**AV Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)** 
-- Devised, conducted and reported Motion Planning subsystem testing for autonomous passenger vehicles
+**AV System Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)** 
+- Devised and conducted Motion Planning system testing for autonomous passenger vehicles.
+- Evaluated test results and recommended software changes to software engineers.
 
 **Test and Evaluation Engineer, Toyota North America Research and Development (_May 2014 - October 2019_)** 
-- Conducted developmental testing to ensure quality and performance of new automatic and hybrid transmissions
+- Conducted developmental testing leading to launch of new automatic and hybrid transmissions.
+- Ensure quality and performance through feedback to design engineers of test evaluation and failure analysis.
 - Implemented faster parts measurement process to improve measurement turnover rate 300%
 
 **Protective Equipment Test Officer, US Army Aberdeen Test Center (_September 2010 - May 2014_)** 
 - Safely oversaw the ballistic testing testing of protective equipment (zero incident record)
-- Performed rigorous statisitical analysis against pass/fail criteria
-- Wrote and published the Internal Operationg Procedure for the ballistic testing of helmets (IOP PED-003)
+- Performed rigorous statistical analysis against pass/fail criteria
+- Wrote and published the Internal Operating Procedure for the ballistic testing of helmets (IOP PED-003)
 
 ## Honors
 - Eagle Scout, BSA 2006
