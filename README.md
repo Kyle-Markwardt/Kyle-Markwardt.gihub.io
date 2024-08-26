@@ -6,7 +6,6 @@
 
 
 ## Education
-- Alumnus  |  Shaolin AI Bootcamp (_January - July 2024_)
 - B.S., Mechanical Eng.  |  Penn State Behrend (_May 2010_)
 
 
@@ -27,10 +26,6 @@
 - Authored system integration and behavioral requirements in support of Aurora’s industry-leading Safety Case
 - Led the creation and maintenance of the Aurora Driver full onboard software architecture
 - Collaboarted with SWEs to author the Interface Control Documents for Mapping, Perception, Controls, Sensors and Remote Assist subsystems
-
-**AV Subsystem Test Engineer, Aurora Innovation (_January 2021 - May 2022_)** 
-- Generated test standards and procedures for evaluating quality and safety of motion planner outputs in preparation for driverless semi operation
-- Advised on creation of subsystem requirements for Motion Planning subsystem of Auora Driver
 
 **AV Subsystem Test Engineer, Uber Advanced Technology Group (_October 2019 - January 2021_)** 
 - Devised, conducted and reported Motion Planning subsystem testing for autonomous passenger vehicles
