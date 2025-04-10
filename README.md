@@ -1,6 +1,6 @@
- # Autonomous Vehicle Systems Engineer | Applied ML & Data-Driven Architecture  
+ # Autonomous Vehicle Systems Engineer · Applied ML & Data-Driven Architecture  
 
-[LinkedIn](https://www.linkedin.com/in/[your-handle]) | [GitHub](https://github.com/Kyle-Markwardt)  
+[LinkedIn](https://www.linkedin.com/in/[your-handle]) · [GitHub](https://github.com/Kyle-Markwardt)  
 
 ---
 
