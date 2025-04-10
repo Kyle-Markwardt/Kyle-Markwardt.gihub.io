@@ -1,6 +1,6 @@
- # Autonomous Vehicle Systems Engineer · Applied ML & Data-Driven Architecture  
+ # Autonomous Vehicle Systems Engineer \| Applied ML & Data-Driven Architecture  
 
-[LinkedIn](https://www.linkedin.com/in/[your-handle]) · [GitHub](https://github.com/Kyle-Markwardt)  
+[LinkedIn](https://www.linkedin.com/in/[your-handle]) \| [GitHub](https://github.com/Kyle-Markwardt)  
 
 ---
 
@@ -15,7 +15,6 @@ Experienced Systems Engineer with a background in autonomous vehicles and a grow
 |:-----------------------------|:----------------------|:--------------------------|
 | ▪ Neural network construction <br> ▪ Model training & evaluation <br> ▪ Classification & Time Series Analysis <br> ▪ Data narratives & visualization | ▪ AWS <br> ▪ GitHub <br> ▪ Google Colab <br> ▪ VSCode <br> ▪ Jupyter | ▪ Python <br> ▪ Spark <br> ▪ Scikit-learn <br> ▪ TensorFlow <br> ▪ Japanese |
 
----
 
 ## Machine Learning Projects  
 
