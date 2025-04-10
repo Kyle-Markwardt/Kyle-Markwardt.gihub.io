@@ -2,8 +2,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/kyle-c-markwardt) | [GitHub](https://github.com/Kyle-Markwardt)  
 
----
-
 ## Summary  
 Experienced Systems Engineer with a background in autonomous vehicles and a growing specialization in machine learning. Skilled at designing safety-critical systems, managing complex data flows, and applying ML techniques to real-world problems. Strong interest in ML deployment, computer vision, and large-scale detection systems for public safety.
 
